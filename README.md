@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/nee-tin/assets/main/digi-v1.png" width="120" alt="Den Icon">
+# <img src="https://raw.githubusercontent.com/nee-tin/assets/main/digi-v1.png" width="full" alt="Den Icon">
 
 
 Modern responsive business landing page designed using Elementor.
